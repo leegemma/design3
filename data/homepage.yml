@@ -1,0 +1,104 @@
+# banner
+banner:
+  title : "Hi! I’m <br> Christoher <br> UX designer"
+  socialLinks:
+    - icon : "ti-facebook"
+      URL : "#"
+      
+    - icon : "ti-instagram"
+      URL : "#"
+      
+    - icon : "ti-dribbble"
+      URL : "#"
+      
+    - icon : "ti-twitter"
+      URL : "#"
+
+# about
+about:
+  enable : true
+  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  button:
+    btnText : "know more"
+    URL : "/about"
+
+# skill
+skill:
+  enable : true
+  skillbar:
+    - title : "Web Design"
+      progress : "90%"
+      color : "#fdb157"
+      
+    - title : "Logo Design"
+      progress : "60%"
+      color : "#9473e6"
+      
+    - title : "After Effects"
+      progress : "80%"
+      color : "#bdecf6"
+      
+    - title : "Web App"
+      progress : "70%"
+      color : "#ffbcaa"
+
+# experience
+experience:
+  enable : true
+  item: 
+    - logo : "images/experience/icon-1.png"
+      title : "Junior UX Designer"
+      company : "WEBEX"
+      duration : "Jan 2007 - Feb 2009"
+      
+    - logo : "images/experience/icon-2.png"
+      title : "UX & UI Designer"
+      company : "AUGMEDIX"
+      duration : "Mar 2009 - Aug 2014"
+      
+    - logo : "images/experience/icon-1.png"
+      title : "Senior UI Designer"
+      company : "THEMEFISHER"
+      duration : "Sep 2014 - Present"
+
+# service
+service:
+  enable : true
+  item : 
+    - title : "UI Design"
+      icon : "ti-palette"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      highlighted : false
+
+    - title : "UX Design"
+      icon : "ti-vector"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      highlighted : true
+
+    - title : "Interaction Design"
+      icon : "ti-panel"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      highlighted : false
+
+# portfolio
+portfolio:
+  enable : true
+  item:
+    - image : "images/portfolio/item-1.png"
+      projectURL : "#"
+      
+    - image : "images/portfolio/item-2.png"
+      projectURL : "#"
+      
+    - image : "images/portfolio/item-3.png"
+      projectURL : "#"
+      
+    - image : "images/portfolio/item-4.png"
+      projectURL : "#"
+      
+    - image : "images/portfolio/item-5.png"
+      projectURL : "#"
+
+# blog
+blog:
+  enable : true
